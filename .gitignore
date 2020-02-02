@@ -1,0 +1,6 @@
+*.dll
+*.pdb
+obj/**
+bin/**
+runtimes/**
+/.vs/QnABot/v16/Server/sqlite3/db.lock

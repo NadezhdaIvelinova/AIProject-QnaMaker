@@ -1,0 +1,18 @@
+{
+    "name": "QnABot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "54a9c130-45c0-11ea-8704-6b781f371527",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Puh\\Desktop\\AI project\\QnABot.bot"
+}
